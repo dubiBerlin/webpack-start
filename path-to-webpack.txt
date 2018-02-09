@@ -1,0 +1,4 @@
+2. commit "Asset Management"
+
+  1) npm install --save-dev style-loader css-loader
+  2) 
