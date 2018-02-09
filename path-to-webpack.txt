@@ -2,3 +2,4 @@
 
   1) For loading css: npm install --save-dev style-loader css-loader
   2) For loading images: npm install --save-dev file-loader
+  3) For loading data: npm install --save-dev csv-loader xml-loader
