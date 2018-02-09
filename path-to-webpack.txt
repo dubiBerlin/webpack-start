@@ -1,4 +1,4 @@
 2. commit "Asset Management"
 
-  1) npm install --save-dev style-loader css-loader
-  2) 
+  1) For loading css: npm install --save-dev style-loader css-loader
+  2) For loading images: npm install --save-dev file-loader
